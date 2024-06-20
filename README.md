@@ -1,10 +1,10 @@
 # Data-Analytics-Suppliers-performance: Solving Business Problems.
 # Overview:
-This project showcases the application of data analytics techniques to analyze shipments data obtained from a freight forwarding company. The analysis focuses on measuring supplier performance, identifying trends, patterns, and costs associated with shipment delays, and assessing their impact on the company's service levels. The goal is to uncover insights that are crucial for optimizing operational efficiency.
+This project showcases the application of data analytics techniques to analyze shipments data obtained from a freight forwarding company.
+focusing on measuring supplier performance, identifying trends, patterns, and costs associated with shipment delays, and assessing their impact on the company's service levels. 
+The goal is to uncover insights that are crucial for optimizing operational efficiency.
 
 # Business Problem
-The project aimed to:
-
 - Extract, Clean, and Analyze Data: Extracted shipment data from operational systems, cleaned it to anonymise and to handle missing values and outliers, and conduct in-depth analysis.
 - Identify Supplier Performance Trends: Analyze supplier performance metrics to identify strengths, weaknesses, and areas for improvement.
 - Optimize Operational Efficiency: Provide insights to reduce shipment delays, improve on-time delivery rates, and minimize operational costs.
