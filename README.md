@@ -53,10 +53,13 @@ Explore additional factors influencing shipment delays such as weather condition
 Develop actionable recommendations based on the insights uncovered.
 
 # Contact Information:
+<div>
 <a href="mailto:someone@example.com">
 <img src="gmail.png" alt="gmail-icon" width="100" height="100">
 </a>
+</div>
+<div>
 <a href="https://www.linkedin.com/in/emanaldabaa/">
 <img src="linkedin.png" alt="Linkedin-icon" width="100" height="100">
 </a>
-
+</div>
