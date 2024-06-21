@@ -55,7 +55,7 @@ Develop actionable recommendations based on the insights uncovered.
 # Contact Information:
 <div>
 <a href="mailto:emanaldabba@gmail.com">
-<img src="Images/gmail.png" alt="gmail-icon" width="100" height="100">
+<img src="Images/gmail.png" alt="gmail-icon" width="90" height="90">
 </a>
 </div>
 <div>
