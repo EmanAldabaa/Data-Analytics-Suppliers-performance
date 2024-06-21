@@ -60,6 +60,6 @@ Develop actionable recommendations based on the insights uncovered.
 </div>
 <div>
 <a href="https://www.linkedin.com/in/emanaldabaa/">
-<img src="Images/linkedin.png" alt="Linkedin-icon" width="100" height="100">
+<img src="Images/linkedin.png" alt="Linkedin-icon" width="90" height="90">
 </a>
 </div>
