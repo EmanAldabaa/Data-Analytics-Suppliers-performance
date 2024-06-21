@@ -15,7 +15,7 @@ The dataset used in this project was extracted from a shipping company's operati
 # Project Workflow:
 
 # 1- Data Collection:
-Extracted Global Shipments data from the operational systems of a freight forwarding company.Original file contained (Global shipments for one of the company's top customer with Rows: 5869 – Columns:49).
+Extracted Global Shipments data from the operational systems of a freight forwarding company.Original file contained (Global shipments data for one of the company's top customer with Rows: 5869 – Columns:49).
 
 # 2- Data Exploration & Cleaning:
 
@@ -43,14 +43,14 @@ Key Findings:
 Identified peak shipment months and carriers.
 Analyzed the impact of delays on overall costs.
 Proposed recommendations to enhance on-time delivery rates and reduce costs.
-Conclusion
-This project demonstrates the application of data analytics to solve business challenges related to supplier performance and shipment delays. By analyzing anonymized data, businesses can make informed decisions to optimize operations and improve customer satisfaction.
+Conclusion:
+This project demonstrates the application of data analytics to solve business challenges related to supplier performance and shipment delays. By analyzing performance data utilizing Python rich liberaries that offers effective and a rapid analysis of complex datasets, businesses can uncover valuable insights that would lead to making informed decisions to optimize operations and improve customer satisfaction.
 
 # Future Enhancements
-Implement predictive analytics models for forecasting shipment volumes and potential delays.
-Integrate real-time data streams for continuous monitoring and proactive decision-making.
-Explore additional factors influencing shipment delays such as weather conditions and geopolitical factors.
-Develop actionable recommendations based on the insights uncovered.
+- Develop actionable recommendations based on the insights uncovered.
+- Implement predictive analytics models for forecasting shipment volumes and potential delays.
+- Integrate real-time data streams for continuous monitoring and proactive decision-making.
+- Explore additional factors influencing shipment delays such as weather conditions and geopolitical factors.
 
 # Contact Information:
 <div>
