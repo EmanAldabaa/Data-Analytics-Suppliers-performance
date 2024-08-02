@@ -5,7 +5,6 @@ focusing on measuring supplier performance, identifying trends, patterns, and co
 The goal is to uncover insights that are crucial for optimizing operational efficiency.
 
 # Business Problem
-- Extract, Clean, and Analyze Data: Extracted shipment data from operational systems, cleaned it to anonymise and to handle missing values and outliers, and conduct in-depth analysis.
 - Identify Supplier Performance Trends: Analyze supplier performance metrics to identify strengths, weaknesses, and areas for improvement.
 - Optimize Operational Efficiency: Provide insights to reduce shipment delays, improve on-time delivery rates, and minimize operational costs.
   
